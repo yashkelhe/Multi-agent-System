@@ -185,6 +185,8 @@ python database/seed.py
 
 ```bash
 uvicorn main:app --reload
+
+streamlit run ui/dashboard.py
 ```
 
 **7. Open interactive docs**

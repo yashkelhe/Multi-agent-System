@@ -11,10 +11,6 @@
 
 ## The Problem
 
-Enterprise applications are built around APIs and dashboards — not people. To answer a simple question like _"Where is my order and is the item still in stock?"_, an employee has to open multiple systems, run separate queries, and stitch the answer together manually.
-
-As the business grows, so does the complexity. More departments mean more APIs, more dashboards, and more time wasted on navigation instead of decisions.
-
 **This project replaces that workflow with a single natural language interface.** Users just ask a question. The system figures out which business domain owns the answer, queries the right data, and responds — no API knowledge, no dashboard navigation required.
 
 ---
